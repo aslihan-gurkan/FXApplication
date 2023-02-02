@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ExchangeRatesService.getExchangeCurrencies(url:completion:):ExchangeRatesService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in InstrumentsViewController.getData():InstrumentsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.responseListViewModel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "InstrumentsViewController.tableView(_:numberOfRowsInSection:):InstrumentsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.responseListViewModel.numberOfRowsInSection()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
