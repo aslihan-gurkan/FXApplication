@@ -1,5 +1,5 @@
-![Swift](https://img.shields.io/badge/Swift-4.2-brightgreen.svg)
-[![Xcode](https://img.shields.io/badge/Xcode-10.0-brightgreen.svg)](https://developer.apple.com/xcode)
+![Swift](https://img.shields.io/badge/Swift-5-brightgreen.svg)
+[![Xcode](https://img.shields.io/badge/Xcode-14.2-brightgreen.svg)](https://developer.apple.com/xcode)
 
 # FXApplication
 The FX application lists the rate information it receives from the api after logging into the application.
